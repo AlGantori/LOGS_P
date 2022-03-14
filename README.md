@@ -25,6 +25,6 @@ Added the images to the local git
 Note: my images are relative to the HTML page, thus they don't specify any path.
 
 # Step3:
-Use Sync from VSCode
+Used Sync from VSCode
 
-It worked.
+It worked. The wiki page on github shows the inline images.
