@@ -5,9 +5,10 @@
 Pasting the HTML with image tags won't get them uploaded to a wiki page.
 Need to find a one step process for uploading my local HTML pages with images in one step.
 
-how to migrate html into github wiki...
+## Searching...
+how to migrate html into github wiki
 
-Found
+## Found
 
 https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages
 
